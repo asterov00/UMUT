@@ -54,7 +54,7 @@ Oyuncu, Umut’un iç dünyasını, ailesiyle ve çevresiyle yaşadığı ileti�
 > 🔐 **Not:** RPG Maker XP lisansına sahip olmayan kullanıcılar `.rxdata` dosyalarını (örneğin `Scripts.rxdata`, `Map001.rxdata`) açamaz.  
 > Oyun yalnızca lisanslı RPG Maker XP sahipleri tarafından düzenlenebilir.
 
-### 2️⃣ Yöntem: Game.exe ile Oynamak (hazır build varsa)
+### 2️⃣ Yöntem: Game.exe ile Oynamak
 - Eğer proje deposunda `Game.exe` yer alıyorsa,  
   dosyayı çalıştırarak doğrudan oyunu oynayabilirsin.  
 - Bu, oyunun “dağıtılmış” (compiled) sürümüdür ve motor gerektirmez.
