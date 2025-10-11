@@ -72,9 +72,5 @@ Kod, sahne yapısı ve sistem fikirleri özgürce incelenebilir ve uyarlanabilir
 
 ---
 
-## 📜 MIT Lisansı
-
----
-
 > 📖 *“Bazı dünyalar sessizdir, ama orada duygular en yüksek sesle konuşur.”*  
 > — *Umut*
