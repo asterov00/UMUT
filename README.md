@@ -57,7 +57,6 @@ Oyuncu, Umut’un iç dünyasını, ailesiyle ve çevresiyle yaşadığı ileti�
 ### 2️⃣ Yöntem: Game.exe ile Oynamak
 - Eğer proje deposunda `Game.exe` yer alıyorsa,  
   dosyayı çalıştırarak doğrudan oyunu oynayabilirsin.  
-- Bu, oyunun “dağıtılmış” (compiled) sürümüdür ve motor gerektirmez.
 
 ---
 
@@ -74,3 +73,8 @@ Kod, sahne yapısı ve sistem fikirleri özgürce incelenebilir ve uyarlanabilir
 ---
 
 ## 📜 MIT Lisansı
+
+---
+
+> 📖 *“Bazı dünyalar sessizdir, ama orada duygular en yüksek sesle konuşur.”*  
+> — *Umut*
