@@ -1,4 +1,4 @@
-# 🎮 Umut
+# 🎮 Umut  
 **Platform:** RPG Maker XP (Ruby / RGSS1)  
 **Tür:** 2D Hikaye Odaklı RPG, Simülasyon  
 **Tema:** Otizm Farkındalığı · Aile ve Sosyal İletişim · Empati  
@@ -14,49 +14,63 @@ Oyuncu, Umut’un iç dünyasını, ailesiyle ve çevresiyle yaşadığı ileti�
 ## 🧩 Oynanış Özellikleri
 - **Yön Tuşları:** Hareket  
 - **Enter / Space:** Etkileşim  
-- **Menü Tuşu:** Envanter, görevler, günlük  
-- **Çok Seçenekli Diyaloglar:** Umut’un sosyal farkındalık seviyesi seçimlere göre değişir  
-- **Ruh Hali Sistemi:** Umut’un stres seviyesi diyalogları ve hareketleri etkiler  
-- **Mini Oyunlar:** Empati ve sosyal ipuçlarını anlamaya dayalı küçük görevler  
+- **Menü Tuşu:** Envanter, görevler ve günlük  
+- **Çok Seçenekli Diyaloglar:** Umut’un sosyal farkındalığı seçimlere göre değişir  
+- **Ruh Hali Sistemi:** Stres arttıkça diyaloglar ve kontroller etkilenir  
+- **Mini Oyunlar:** Empati ve sosyal ipuçlarını anlama üzerine  
 
 ---
 
 ## 🏠 Mekanlar
-- **Ev:** Aile içi iletişim ve sabah rutinleri  
-- **Okul:** Dersler, öğretmen ve arkadaş etkileşimleri  
+- **Ev:** Aile içi diyaloglar ve sabah rutinleri  
+- **Okul:** Öğretmen ve arkadaş etkileşimleri  
 - **Şehir Merkezi:** Sosyal görevler ve keşif  
 - **Kırsal Alanlar:** Sakinleşme ve içsel düşünce sahneleri  
 
 ---
 
 ## 🎨 Görsel & Ses Tasarımı
-- 2D Piksel Sanatı · Yumuşak pastel tonlar  
+- 2D Piksel Sanatı · Pastel renk paleti  
 - Gerçekçi Kıbrıs şehir ve doğa dokuları  
-- Duygusal müzikler & çevresel ses efektleri  
-
----
-
-## 💙 Otizm Farkındalığı Odaklı Unsurlar
-- Empati tabanlı seçim sistemi  
-- Stres ve duygu yönetimi mekanikleri  
-- Umut’un iç sesiyle rehberlik  
-- Gerçekçi sosyal iletişim temaları  
+- Duygusal müzikler ve ambient sesler  
 
 ---
 
 ## ⚙️ Teknik Bilgiler
 - **Motor:** RPG Maker XP (Ruby / RGSS1)  
 - **Çözünürlük:** 640×480  
-- **Temel Sistemler:** Event + Switch/Variable tabanlı etkileşim  
-- **Ek Özellikler:** Mouse desteği, özel sahneler, atmosfer efektleri (yağmur, yıldız vb.)
+- **Etkileşim:** Event + Switch/Variable tabanlı sistem  
+- **Ek Özellikler:** Mouse desteği, özel sahneler, yağmur ve yıldız efektleri  
 
 ---
 
-## ✨ Amaç
-Bu proje, **oyun yoluyla empati ve farkındalık yaratmayı** hedefler.  
-Otizmli bireylerin iç dünyasını, sessizce ama derin bir şekilde anlatır.
+## 💾 Kurulum ve Çalıştırma
+
+### 1️⃣ Yöntem: RPG Maker XP ile Açmak
+- Proje klasörünü (`Umut/`) bilgisayarına klonla veya indir.  
+- `Umut.rxproj` dosyasını çift tıklayarak **RPG Maker XP** içinde aç.  
+- Oyunu düzenleyebilir, oynayabilir veya yeniden derleyebilirsin.  
+
+> 🔐 **Not:** RPG Maker XP lisansına sahip olmayan kullanıcılar `.rxdata` dosyalarını (örneğin `Scripts.rxdata`, `Map001.rxdata`) açamaz.  
+> Oyun yalnızca lisanslı RPG Maker XP sahipleri tarafından düzenlenebilir.
+
+### 2️⃣ Yöntem: Game.exe ile Oynamak (hazır build varsa)
+- Eğer proje deposunda `Game.exe` yer alıyorsa,  
+  dosyayı çalıştırarak doğrudan oyunu oynayabilirsin.  
+- Bu, oyunun “dağıtılmış” (compiled) sürümüdür ve motor gerektirmez.
 
 ---
 
-> 📖 *“Bazı dünyalar gürültüsüzdür; ama orada duygular en yüksek sesle konuşur.”*  
-> — *Umut*
+## ⚠️ Lisans ve Erişim
+Bu proje **MIT Lisansı** ile yayımlanmıştır.  
+Kod, sahne yapısı ve sistem fikirleri özgürce incelenebilir ve uyarlanabilir.  
+
+> Ancak dikkat:  
+> Bu depo **tam proje klasörünü** içerir.  
+> Oyunun kaynak dosyaları (`Data/`, `Graphics/`, `Audio/`) motor formatında (`.rxdata`) saklanır.  
+> Bu dosyalar yalnızca **RPG Maker XP lisansına sahip kullanıcılar** tarafından görüntülenebilir veya düzenlenebilir.  
+> Motor lisansına sahip olmayan kullanıcılar kaynak kodu göremez, ancak oynanabilir build’i kullanabilir.
+
+---
+
+## 📜 MIT Lisansı
