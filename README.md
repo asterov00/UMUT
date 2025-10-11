@@ -61,7 +61,7 @@ Oyuncu, Umut’un iç dünyasını, ailesiyle ve çevresiyle yaşadığı ileti�
 ---
 
 ## ⚠️ Lisans ve Erişim
-Bu proje **GPL Lisansı** ile yayımlanmıştır.  
+Bu proje **GNU General Public License v3.0** ile yayımlanmıştır.  
 Kod, sahne yapısı ve sistem fikirleri özgürce incelenebilir ve uyarlanabilir.  
 
 > Ancak dikkat:  
