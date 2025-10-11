@@ -4,6 +4,10 @@
 **Tema:** Otizm Farkındalığı · Aile ve Sosyal İletişim · Empati  
 
 ---
+## Durum
+Bu oyun hâlen geliştirme aşamasındadır. İçerik, grafikler ve mekanikler henüz tamamlanmamıştır; ilerleyen sürümlerde önemli değişiklikler olabilir.  
+Kaynak dosyalar, yalnızca **RPG Maker XP lisansına sahip kullanıcılar** tarafından düzenlenebilir.
+---
 
 ## 🌱 Konsept
 **Umut**, otizm spektrumundaki 14 yaşındaki bir çocuğun gözünden dünyayı deneyimlemeni sağlayan duygusal bir hikaye RPG’sidir.  
